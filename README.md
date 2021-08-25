@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shy_0215
-- 👀 I’m interested in Frontend developing 
-- 🌱 I’m currently learning HTML, CSS, JS and C
+- 👀 I’m interested in Front-end developing 
+- 🌱 I’m currently learning HTML, CSS, JS and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: shy_0215@naver.com
 
